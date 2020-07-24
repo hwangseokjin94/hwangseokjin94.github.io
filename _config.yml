@@ -20,8 +20,8 @@ locale                   : "en-US"
 title                    : "hwang저장소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "황석진94"
+description              : "저장소입니다."
 url                      : "https://hwangseokjin94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
